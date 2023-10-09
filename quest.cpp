@@ -1,7 +1,7 @@
 
 #include<iostream>
 #include<cstdlib>
-#include "dungeon-board.h"
+#include "board.h"
 using namespace std;
 //Local declarations
 void setBoard(char board[][10]);
