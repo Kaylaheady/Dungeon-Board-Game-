@@ -1,5 +1,5 @@
 
-#include "dungeon-board.h"
+#include "board.h"
 DungeonBoard::DungeonBoard(int _size=10):maxTreasures(_size/2),maxMobs(_size) {
 size = _size;
 //allocate a new board
